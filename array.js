@@ -10,3 +10,4 @@ ages.unshift(55) //add top
 for (i = 0; i < ages.length; i++) {
     console.log(ages[i])
 }
+  
