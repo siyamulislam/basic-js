@@ -12,3 +12,5 @@ function fibonacci(n){
 
 var result= fibonacci(10)
 console.log(result)
+
+
